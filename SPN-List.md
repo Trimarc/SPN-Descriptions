@@ -53,7 +53,7 @@
 |	hive	|	Hadoop Metastore	|
 |	host	|	The HOST service represents the host computer	|
 |	HTTP	|	SPN for http web services that support Kerberos auth	|
-|	HTTP/<companyname>.kerberos.okta.com	|	Okta Kerberos Delegated Auth Source: [@_xpn_](https://twitter.com/_xpn_/status/1687042242832142336)|
+|	HTTP/<companyname>.kerberos.okta.com	|	Okta Kerberos Delegated Auth **Source: [@_xpn_](https://twitter.com/_xpn_/status/1687042242832142336)**|
 |	httpfs	|	Hadoop HDFS over HTTP	|
 |	https	|	SPN for https web services that support Kerberos auth	|
 |	Hue	|	Hadoop Hue Interface	|
